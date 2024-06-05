@@ -2,4 +2,5 @@ A JavaScript Game project from freeCodeCamp.org where using JS I learned how to 
 It also keeps score, tracks collisions for the snake, and displays your high score. 
 Course developed by @howtobecomeadeveloper
 Link to the course: https://www.youtube.com/watch?v=uyhzCBEGaBY&ab_channel=freeCodeCamp.org
-For educational purposes only. 
+
+-- Educational purposes only --
